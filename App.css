@@ -1,0 +1,14 @@
+.Cell {
+    position: absolute;
+    background-color: white;
+}
+
+.Grid {
+    position: relative;
+    margin: 0 auto;
+    background-color: #000;
+}
+
+.App {
+    text-align: center;
+}
